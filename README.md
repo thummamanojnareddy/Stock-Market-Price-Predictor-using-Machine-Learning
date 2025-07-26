@@ -97,9 +97,7 @@ To build a machine learning model that can accurately predict the **next day’s
 ├── README.md                        
 
 
----
-
-### ✅ Conclusion
+ ✅ Conclusion
 
 This project demonstrates how historical financial data can be used with machine learning models to **predict stock prices**. Among the models used, **Random Forest** outperformed **Linear Regression** in accuracy.
 
