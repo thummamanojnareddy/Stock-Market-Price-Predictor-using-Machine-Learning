@@ -105,12 +105,3 @@ This project demonstrates how historical financial data can be used with machine
 
 ---
 
-### 📌 Future Improvements
-
-* Integrate **LSTM/GRU** for time-series forecasting
-* Use **technical indicators** as features (e.g., RSI, MACD)
-* Build a **web dashboard** using Streamlit or Flask
-
----
-
-Let me know if you'd like this as a `.md` file to download or included directly in your project folder!
