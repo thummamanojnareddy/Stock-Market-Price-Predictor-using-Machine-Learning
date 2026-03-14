@@ -1,4 +1,3 @@
-Here’s a professional and well-structured **README.md** file for your **Stock Market Price Predictor** project:
 
 ---
 
