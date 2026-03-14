@@ -95,7 +95,22 @@ To build a machine learning model that can accurately predict the **next day’s
 ├── Stock_Data_Last_5_Years.csv       
 ├── stock market price pridiction using machine learning.ipynb            
 ├── README.md                        
+# 👩‍💻 Author
 
+**Thumma Manojna Reddy**
+
+AI / ML Enthusiast  
+B.Tech CSE (AI & ML)
+
+GitHub  
+https://github.com/thummamanojnareddy
+
+LinkedIn  
+https://www.linkedin.com/in/manojna-reddy-thumma-536b9730b/
+
+---
+
+⭐ If you found this project helpful, consider **starring the repository**!
 
 
 
