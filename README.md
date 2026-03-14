@@ -89,13 +89,17 @@ To build a machine learning model that can accurately predict the **next day’s
 
 ---
 
-### 📁 File Structure
+## 📁 Project Structure
 
 ```
-├── Stock_Data_Last_5_Years.csv       
-├── stock market price pridiction using machine learning.ipynb            
-├── README.md                        
-# 👩‍💻 Author
+stock-market-price-prediction
+│
+├── Stock_Data_Last_5_Years.csv
+├── stock_market_price_prediction_using_machine_learning.ipynb
+└── README.md
+```
+
+---
 
 ## 👩‍💻 Author
 
@@ -104,10 +108,10 @@ To build a machine learning model that can accurately predict the **next day’s
 AI / ML Enthusiast  
 B.Tech CSE (AI & ML)
 
-🔗 GitHub:  
+🔗 **GitHub**  
 https://github.com/thummamanojnareddy  
 
-🔗 LinkedIn:  
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/manojna-reddy-thumma-536b9730b/
 
 ---
